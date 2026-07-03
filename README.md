@@ -85,6 +85,7 @@ The lock screen should now appear automatically on every boot/login.
 ---
 
 ## Part 4 — Using It
+<img width="4160" height="3120" alt="IMG_20260703_203759_380" src="https://github.com/user-attachments/assets/f535dca2-c953-4225-92b1-6eb9b0e0f51a" />
 
 ### Cable Mode
 1. Connect phone to laptop via USB cable.
