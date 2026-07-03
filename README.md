@@ -5,7 +5,7 @@ PhoneKey lets you lock/unlock your laptop from your phone over **USB cable** or 
 This guide covers a **fresh install on a brand-new laptop** — no Android Studio required on that machine.
 
 ---
-
+<img width="720" height="1600" alt="Screenshot_20260703-120851" src="https://github.com/user-attachments/assets/12c0ef62-74e0-4122-ba72-b34b1ad0e839" />
 ## What You Need
 
 | Item | Where to get it | Required on |
