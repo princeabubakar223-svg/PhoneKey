@@ -1,0 +1,18 @@
+# PhoneKey - Required Python Packages
+# Install with: pip install -r requirements.txt
+
+pywin32>=306
+keyboard>=0.13.5
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Optional but Recommended (for J.A.R.V.I.S)
+spacy>=3.7.0
+textblob>=0.17.1
+fuzzywuzzy>=0.18.0
+
+# Optional (for Bluetooth support)
+# pybluez>=0.23
+
+# For spaCy language model (run after installing spacy)
+# python -m spacy download en_core_web_sm
